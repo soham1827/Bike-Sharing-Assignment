@@ -13,6 +13,7 @@
 
 ## General Information
 - Building a Linear Regression model to determine the demand for shared bikes with the available independent variables. The python notebook guides through EDA, Feature selection using RFE technique, detection of multi-collinearity and predictive analysis.
+- We have used StatsModel for building Linear Regression model.
 - Understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market.
 - The Business Problem/Business Goals that is being handled are below:
   - Build a prediction model to forecast demand for shared bikes with the available independent variables. 
