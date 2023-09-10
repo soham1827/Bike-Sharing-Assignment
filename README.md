@@ -22,6 +22,8 @@
 
 ## Dataset
 - Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. The data dictionary is also provided for better understanding.
+- Dataset- "day.csv"
+- Data dictionary - "Readme_dictionary.txt"
 
 
 ## Conclusions
